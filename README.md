@@ -6,7 +6,7 @@ that I completed during the Spring of 2024.
 This assignment explores the analysis of computational and memory capabilities across different hardware platforms using roofline models. It includes benchmarking and visualization of performance metrics for various deep neural networks (DNNs) on CPUs, GPUs, ASICs, and SoCs. The tasks involve generating roofline plots, determining FLOPs/s and memory bandwidth, and assessing DNN performance and hardware utilization under diverse workloads.
 
 ## A2  
-This assignment delves into training and deploying an audio processing neural network on an Arduino Tiny Machine Learning Kit. The project spans various stages including preprocessing, model size estimation, training, and deep dives into quantization and pruning to enhance performance. The tasks involve comprehensive coding, creating roofline plots, and performing benchmarking and hardware utilization analyses to optimize DNNs for efficient operation on microcontrollers.
+This assignment focuses on training and deploying an audio processing neural network on an Arduino Tiny Machine Learning Kit. The project spans various stages including preprocessing, model size estimation, training, and deep dives into quantization and pruning to enhance performance. The tasks involve comprehensive coding, creating roofline plots, and performing benchmarking and hardware utilization analyses to optimize DNNs for efficient operation on microcontrollers.
 
 ## A3  
 In this assignment, TVM is used to optimize deep neural network (DNN) primitives on various hardware platforms, including CPU, GPU, and FPGA devices. The project involves optimizing operations such as 1D convolution and GEMM, and performing multiple distinct optimizations to enhance performance.
